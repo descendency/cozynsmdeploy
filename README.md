@@ -1,0 +1,2 @@
+# cozynsmdeploy
+CozyStack deployer
